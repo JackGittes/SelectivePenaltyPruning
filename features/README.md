@@ -1,0 +1,1 @@
+This is the folder for storing layers' output, which is used for selecting potential candidates.
